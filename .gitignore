@@ -26,3 +26,7 @@ replay_pid*
 # Gradle files
 .gradle/
 build/
+
+# Spring Boot files
+bin/
+

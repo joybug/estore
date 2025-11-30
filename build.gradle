@@ -19,7 +19,6 @@ repositories {
 	mavenCentral()
 }
 
-
 processResources {
   dependsOn(generateSwaggerCode)
 }
@@ -57,7 +56,7 @@ dependencies {
 	compileOnly 'org.openapitools:jackson-databind-nullable:0.2.3'
 	implementation 'com.fasterxml.jackson.dataformat:jackson-dataformat-xml'
 	implementation 'org.springframework.boot:spring-boot-starter-hateoas'
-	implementation 'io.springfox:springfox-oas:3.0.0'
+	implementation 'org.springdoc:springdoc-openapi-starter-webmvc-ui:2.6.0'
 }
 
 tasks.named('test') {
