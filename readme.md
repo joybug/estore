@@ -6,6 +6,3 @@
   alt="gitanimals"
 />
 </a>
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/guilds/791680975525994747/draw"/>
-</a>
