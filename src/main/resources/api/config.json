@@ -10,6 +10,7 @@
   "useGzipFeature": true,
   "hateoas": true,
   "unhandledException": true,
+  "reactive": true,
   "useSpringBoot3": true,
   "useSwaggerUI": true,
   "typeMappings": {
@@ -27,4 +28,3 @@
     "BigDecimal": "java.math.BigDecimal"
   }
 }
-
